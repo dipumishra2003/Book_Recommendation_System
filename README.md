@@ -32,10 +32,10 @@ Welcome to **Book Recommendation System**, an intelligent platform that helps us
 You can see the app in action:
 
 **Home Page:**  
-![Home Page](screenshots/home_page.png)  
+![Home Page](home_page.png)  
 
 **Recommendation Page:**  
-![Recommendation Page](screenshots/recommend_page.png)  
+![Recommendation Page](recommend_page.png)  
 
 ---
 
