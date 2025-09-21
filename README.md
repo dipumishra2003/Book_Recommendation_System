@@ -2,16 +2,18 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/) 
 [![Flask](https://img.shields.io/badge/Flask-2.3-green)](https://flask.palletsprojects.com/)
-[![License](https://img.shields.io/badge/License-MIT-red)](LICENSE)
 
 ---
 
 ## 🌟 Overview
-Welcome to **Book Recommendation System**, an intelligent platform that helps users discover new books based on their favorite reads. Powered by **Python**, **Machine Learning**, and **Flask**, this app provides personalized recommendations with a sleek **dark-themed UI**.  
+Welcome to **Book Recommendation System**, an intelligent platform that helps users discover new books based on their favorite reads. Powered by **Python**, **Machine Learning**, and **Flask**, this app provides personalized recommendations with a sleek **dark-themed UI**.
 
 **Features:**
 - Top 50 trending books displayed on the homepage 🏆  
 - Personalized book recommendations based on user input 🔍  
+- **Hybrid Recommendation System:**  
+  - **Popularity-Based Recommendation** for trending books  
+  - **Collaborative Filtering** for personalized suggestions  
 - Fully responsive, modern dark-themed UI 🌑  
 - Powered by a pre-trained similarity model using **Pickle files** 🧠  
 
